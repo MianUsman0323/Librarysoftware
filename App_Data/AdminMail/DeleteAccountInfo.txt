@@ -1,0 +1,8 @@
+﻿Hi Admin,
+A registered User has requested to Delete his account from the library.
+The Details of user is as follow :
+User Name : ##Name##
+Email address : ##Email##
+
+Regards ,
+Education Library

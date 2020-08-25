@@ -1,0 +1,13 @@
+﻿Hi Admin,
+A registered User has requested to borrow a book from the library.
+The Details of user is as follow :
+User Name : ##Name##
+Email address : ##Email##
+The details of book is as follow
+BookID : ##BookID##
+Book Name : ##BookName##
+Requested Date : ##reqDate##
+Requested return Date : ##Req_Ret_Date##
+
+Regards ,
+Education Library

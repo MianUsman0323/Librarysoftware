@@ -1,0 +1,10 @@
+﻿Hi Admin,
+A user has sent the following feedback at the site :
+Name:   ##Name##
+Email address:  ##Email##
+Phone: ##contact##
+Comments: ##Commnect##
+
+
+regard,
+Online Education Library
